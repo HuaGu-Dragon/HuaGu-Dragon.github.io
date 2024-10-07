@@ -8,33 +8,101 @@
     <author>
       <name>HuaGu Dragon</name>
     </author>
-    <updated>2024-10-06T18:07:58.012Z</updated>
+    <updated>2024-10-07T14:55:00.000Z</updated>
     <entry>
-        <id>https://huagu-dragon.github.io/2024/10/07/test1/</id>
-        <title>test</title>
-        <link rel="alternate" href="https://huagu-dragon.github.io/2024/10/07/test1/"/>
-        <content type="html"></content>
-        <category term="计算机科学" scheme="https://huagu-dragon.github.io/categories/computer-science/" />
-        <category term="Linux" scheme="https://huagu-dragon.github.io/categories/computer-science/Linux/" />
-        <category term="文章标签1" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-        <category term="文章标签2" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
-        <updated>2024-10-06T18:07:58.012Z</updated>
-    </entry>
-    <entry>
-        <id>https://huagu-dragon.github.io/2024/10/06/hello-world/</id>
+        <id>https://huagu-dragon.github.io/2024/10/07/hello_world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://huagu-dragon.github.io/2024/10/06/hello-world/"/>
-        <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
-&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/writing.html&#34;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/server.html&#34;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/generating.html&#34;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+        <link rel="alternate" href="https://huagu-dragon.github.io/2024/10/07/hello_world/"/>
+        <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://HuaGu-Dragon.github.io&#34;&gt;My Blog&lt;/a&gt;! This is my very first post. If you get any problems when viewing my post, you can find the answer in &lt;a href=&#34;https://space.bilibili.com/313037750&#34;&gt;bilibili&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/HuaGu-Dragon&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;欢迎来到化咕龙の秘密龙窝&lt;/p&gt;
+&lt;h2 id=&#34;what-you-can-see-here&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#what-you-can-see-here&#34;&gt;#&lt;/a&gt; What you can see here:&lt;/h2&gt;
+&lt;h3 id=&#34;rust&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rust&#34;&gt;#&lt;/a&gt; Rust&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.rust-lang.org/zh-CN/learn&#34;&gt;Rust&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rust 是一种系统编程语言，它允许你编写内存安全、并发且高效的软件。Rust 的设计目标是在不牺牲性能的情况下提供内存安全。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Rust&#34;&gt; fn main() &amp;#123;
+    println!(&amp;quot;Hello, world!&amp;quot;);
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;c&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#c&#34;&gt;#&lt;/a&gt; C++&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5&#34;&gt;C++&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;C++ 是一种广泛使用的计算机程序设计语言。它由 Bjarne Stroustrup 于 1979 年在贝尔实验室开始设计，作为 C 语言的一个扩展。C++ 提供了比 C 语言的更多功能，如面向对象编程、泛型编程和异常处理等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-C++&#34;&gt;#include &amp;lt;iostream&amp;gt;
+
+int main() &amp;#123;
+    std::cout &amp;lt;&amp;lt; &amp;quot;Hello, world!&amp;quot; &amp;lt;&amp;lt; std::endl;
+    return 0;
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;java&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java&#34;&gt;#&lt;/a&gt; Java&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.java.com/zh-CN/&#34;&gt;Java&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Java 是一种广泛使用的计算机编程语言，由 Sun Microsystems 公司于 1995 年发布。Java 是一种面向对象的编程语言，具有跨平台性、安全性、可移植性和高性能等特点。Java 被广泛应用于企业级应用开发、移动应用开发、游戏开发等领域。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Java&#34;&gt;public class HelloWorld &amp;#123;
+    public static void main(String[] args) &amp;#123;
+        System.out.println(&amp;quot;Hello, world!&amp;quot;);
+    &amp;#125;
+&amp;#125;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;python&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python&#34;&gt;#&lt;/a&gt; Python&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Python 是一种高级编程语言，由 Guido van Rossum 于 1989 年创建。Python 是一种解释型语言，具有简洁、易读、易学等特点。Python 被广泛应用于数据分析、人工智能、网络编程、自动化脚本等领域。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-Python&#34;&gt;print(&amp;quot;Hello, world!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;html&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#html&#34;&gt;#&lt;/a&gt; HTML&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/zh-CN/docs/Web/HTML&#34;&gt;HTML&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;HTML（超文本标记语言）是一种用于创建网页的标准标记语言。HTML 元素是构成网页的基本单位，用于描述网页的结构和内容。HTML 元素由标签和内容组成，标签用于标识元素，内容用于描述元素的内容。HTML 元素可以嵌套，形成层次结构，以描述网页的布局和结构。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-HTML&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&amp;lt;html&amp;gt;
+&amp;lt;head&amp;gt;
+    &amp;lt;title&amp;gt;Hello, world!&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+    &amp;lt;h1&amp;gt;Hello, world!&amp;lt;/h1&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;javascript&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#javascript&#34;&gt;#&lt;/a&gt; JavaScript&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://developer.mozilla.org/zh-CN/docs/Web/JavaScript&#34;&gt;JavaScript&lt;/a&gt;
+&lt;blockquote&gt;
+&lt;p&gt;JavaScript 是一种高级编程语言，由 Netscape 公司于 1995 年创建。JavaScript 是一种解释型语言，具有跨平台性、安全性、可移植性和高性能等特点。JavaScript 被广泛应用于网页开发、移动应用开发、游戏开发等领域。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code class=&#34;language-JavaScript&#34;&gt;console.log(&amp;quot;Hello, world!&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;ending&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ending&#34;&gt;#&lt;/a&gt; Ending&lt;/h2&gt;
+&lt;p&gt;感谢您的阅读，如果您有任何问题或建议，请随时联系我。&lt;br /&gt;
+如果您喜欢我的博客，请关注我，我会持续更新更多有趣的内容。&lt;br /&gt;
+最后，祝您生活愉快！&lt;br /&gt;
+&lt;strong&gt;&lt;em&gt;Wish you have a good time~&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
-        <updated>2024-10-06T15:51:51.812Z</updated>
+        <category term="计算机科学" scheme="https://huagu-dragon.github.io/categories/computer-science/" />
+        <category term="hello_world" scheme="https://huagu-dragon.github.io/tags/hello-world/" />
+        <updated>2024-10-07T14:55:00.000Z</updated>
     </entry>
 </feed>
