@@ -1,29 +1,29 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://huagu-dragon.github.io</id>
     <title>龙の秘密小窝</title>
     <subtitle>化咕龙</subtitle>
-    <icon>http://example.com/assets/favicon.ico</icon>
-    <link href="http://example.com" />
+    <icon>https://huagu-dragon.github.io/assets/favicon.ico</icon>
+    <link href="https://huagu-dragon.github.io" />
     <author>
       <name>HuaGu Dragon</name>
     </author>
     <updated>2024-10-06T18:07:58.012Z</updated>
     <entry>
-        <id>http://example.com/2024/10/07/test1/</id>
+        <id>https://huagu-dragon.github.io/2024/10/07/test1/</id>
         <title>test</title>
-        <link rel="alternate" href="http://example.com/2024/10/07/test1/"/>
+        <link rel="alternate" href="https://huagu-dragon.github.io/2024/10/07/test1/"/>
         <content type="html"></content>
-        <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-        <category term="Linux" scheme="http://example.com/categories/computer-science/Linux/" />
-        <category term="文章标签1" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-        <category term="文章标签2" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
+        <category term="计算机科学" scheme="https://huagu-dragon.github.io/categories/computer-science/" />
+        <category term="Linux" scheme="https://huagu-dragon.github.io/categories/computer-science/Linux/" />
+        <category term="文章标签1" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
+        <category term="文章标签2" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
         <updated>2024-10-06T18:07:58.012Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/10/06/hello-world/</id>
+        <id>https://huagu-dragon.github.io/2024/10/06/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2024/10/06/hello-world/"/>
+        <link rel="alternate" href="https://huagu-dragon.github.io/2024/10/06/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;

@@ -3,8 +3,8 @@
     <channel>
         <title>龙の秘密小窝</title>
         <subtitle>化咕龙</subtitle>
-        <icon>http://example.com/assets/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://huagu-dragon.github.io/assets/favicon.ico</icon>
+        <link>https://huagu-dragon.github.io</link>
         <author>
           <name>HuaGu Dragon</name>
         </author>
@@ -13,20 +13,20 @@
         <pubDate>Mon, 07 Oct 2024 02:07:58 +0800</pubDate>
         <lastBuildDate>Mon, 07 Oct 2024 02:07:58 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2024/10/07/test1/</guid>
+            <guid isPermalink="true">https://huagu-dragon.github.io/2024/10/07/test1/</guid>
             <title>test</title>
-            <link>http://example.com/2024/10/07/test1/</link>
-            <category term="计算机科学" scheme="http://example.com/categories/computer-science/" />
-            <category term="Linux" scheme="http://example.com/categories/computer-science/Linux/" />
-            <category term="文章标签1" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
-            <category term="文章标签2" scheme="http://example.com/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
+            <link>https://huagu-dragon.github.io/2024/10/07/test1/</link>
+            <category term="计算机科学" scheme="https://huagu-dragon.github.io/categories/computer-science/" />
+            <category term="Linux" scheme="https://huagu-dragon.github.io/categories/computer-science/Linux/" />
+            <category term="文章标签1" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE1/" />
+            <category term="文章标签2" scheme="https://huagu-dragon.github.io/tags/%E6%96%87%E7%AB%A0%E6%A0%87%E7%AD%BE2/" />
             <pubDate>Mon, 07 Oct 2024 02:07:58 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2024/10/06/hello-world/</guid>
+            <guid isPermalink="true">https://huagu-dragon.github.io/2024/10/06/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2024/10/06/hello-world/</link>
+            <link>https://huagu-dragon.github.io/2024/10/06/hello-world/</link>
             <pubDate>Sun, 06 Oct 2024 23:51:51 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
